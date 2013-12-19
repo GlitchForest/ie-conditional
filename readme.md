@@ -1,1 +1,1 @@
-Readme file here
+Source code for quick-tip article: <a href="http://glitchforest.us/how-to-make-ie-not-suck-as-much/">How to make IE not suck... as much.</a>
