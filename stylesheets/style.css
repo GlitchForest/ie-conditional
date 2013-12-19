@@ -1,0 +1,33 @@
+.box {
+  width: 300px;
+  height: 300px;
+  padding: 5px;
+  text-align: center;
+  color: #CCCCCC;
+  font-family: monospace;
+  background-color: red;
+}
+
+.ie8, .ie7 {
+  display: none;
+}
+
+.lt-ie9 .box {
+  background-color: blue;
+}
+
+.lt-ie9 .ie8 {
+  display: inline;
+}
+
+.lt-ie8 .box {
+  background-color: green;
+}
+
+.lt-ie8 .ie8 {
+  display: none;
+}
+
+.lt-ie8 .ie7 {
+  display: inline;
+}
